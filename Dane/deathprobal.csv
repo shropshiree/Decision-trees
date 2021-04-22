@@ -1,0 +1,917 @@
+;;Probability (%) of dying between age 30 and exact age 70 from any of cardiovascular disease, cancer, diabetes, or chronic respiratory disease
+Country;Year;Both sexes
+Afghanistan;2016;29.8
+Afghanistan;2015;29.8
+Afghanistan;2010;31.7
+Afghanistan;2005;34.1
+Afghanistan;2000;34.4
+Albania;2016;17.0
+Albania;2015;17.4
+Albania;2010;18.6
+Albania;2005;18.8
+Albania;2000;19.4
+Algeria;2016;14.2
+Algeria;2015;14.4
+Algeria;2010;15.4
+Algeria;2005;17.6
+Algeria;2000;21.1
+Angola;2016;16.5
+Angola;2015;16.9
+Angola;2010;18.1
+Angola;2005;21.3
+Angola;2000;24.0
+Antigua and Barbuda;2016;22.6
+Antigua and Barbuda;2015;22.6
+Antigua and Barbuda;2010;21.6
+Antigua and Barbuda;2005;21.6
+Antigua and Barbuda;2000;23.4
+Argentina;2016;15.8
+Argentina;2015;16.1
+Argentina;2010;17.8
+Argentina;2005;18.9
+Argentina;2000;20.6
+Armenia;2016;22.3
+Armenia;2015;23.0
+Armenia;2010;25.9
+Armenia;2005;26.5
+Armenia;2000;27.8
+Australia;2016;9.1
+Australia;2015;9.3
+Australia;2010;10.0
+Australia;2005;11.4
+Australia;2000;13.1
+Austria;2016;11.4
+Austria;2015;11.5
+Austria;2010;12.2
+Austria;2005;12.7
+Austria;2000;15.3
+Azerbaijan;2016;22.2
+Azerbaijan;2015;22.5
+Azerbaijan;2010;24.8
+Azerbaijan;2005;29.0
+Azerbaijan;2000;29.3
+Bahamas;2016;15.5
+Bahamas;2015;15.6
+Bahamas;2010;16.9
+Bahamas;2005;18.5
+Bahamas;2000;20.1
+Bahrain;2016;11.3
+Bahrain;2015;11.7
+Bahrain;2010;13.8
+Bahrain;2005;18.1
+Bahrain;2000;23.5
+Bangladesh;2016;21.6
+Bangladesh;2015;21.7
+Bangladesh;2010;22.2
+Bangladesh;2005;21.8
+Bangladesh;2000;21.4
+Barbados;2016;16.2
+Barbados;2015;16.3
+Barbados;2010;18.0
+Barbados;2005;18.8
+Barbados;2000;21.0
+Belarus;2016;23.7
+Belarus;2015;24.5
+Belarus;2010;31.0
+Belarus;2005;34.7
+Belarus;2000;34.0
+Belgium;2016;11.4
+Belgium;2015;11.6
+Belgium;2010;12.8
+Belgium;2005;13.5
+Belgium;2000;15.2
+Belize;2016;22.1
+Belize;2015;22.4
+Belize;2010;23.2
+Belize;2005;24.3
+Belize;2000;26.2
+Benin;2016;19.6
+Benin;2015;19.7
+Benin;2010;19.8
+Benin;2005;20.1
+Benin;2000;20.0
+Bhutan;2016;23.3
+Bhutan;2015;23.7
+Bhutan;2010;25.1
+Bhutan;2005;27.8
+Bhutan;2000;30.8
+Bolivia (Plurinational State of);2016;17.2
+Bolivia (Plurinational State of);2015;17.4
+Bolivia (Plurinational State of);2010;18.8
+Bolivia (Plurinational State of);2005;20.8
+Bolivia (Plurinational State of);2000;23.0
+Bosnia and Herzegovina;2016;17.8
+Bosnia and Herzegovina;2015;18.2
+Bosnia and Herzegovina;2010;20.9
+Bosnia and Herzegovina;2005;22.8
+Bosnia and Herzegovina;2000;24.4
+Botswana;2016;20.3
+Botswana;2015;20.7
+Botswana;2010;22.2
+Botswana;2005;23.7
+Botswana;2000;23.1
+Brazil;2016;16.6
+Brazil;2015;17.0
+Brazil;2010;19.0
+Brazil;2005;20.8
+Brazil;2000;24.4
+Brunei Darussalam;2016;16.6
+Brunei Darussalam;2015;17.0
+Brunei Darussalam;2010;17.4
+Brunei Darussalam;2005;17.5
+Brunei Darussalam;2000;20.5
+Bulgaria;2016;23.6
+Bulgaria;2015;23.8
+Bulgaria;2010;25.1
+Bulgaria;2005;27.5
+Bulgaria;2000;28.5
+Burkina Faso;2016;21.7
+Burkina Faso;2015;21.9
+Burkina Faso;2010;22.4
+Burkina Faso;2005;22.5
+Burkina Faso;2000;22.6
+Burundi;2016;22.9
+Burundi;2015;22.8
+Burundi;2010;22.8
+Burundi;2005;22.8
+Burundi;2000;23.5
+Cabo Verde;2016;17.2
+Cabo Verde;2015;17.4
+Cabo Verde;2010;18.3
+Cabo Verde;2005;19.4
+Cabo Verde;2000;20.9
+Cambodia;2016;21.1
+Cambodia;2015;21.3
+Cambodia;2010;22.2
+Cambodia;2005;24.0
+Cambodia;2000;25.5
+Cameroon;2016;21.6
+Cameroon;2015;21.8
+Cameroon;2010;21.8
+Cameroon;2005;22.8
+Cameroon;2000;24.5
+Canada;2016;9.8
+Canada;2015;10.0
+Canada;2010;11.1
+Canada;2005;12.6
+Canada;2000;14.4
+Central African Republic;2016;23.1
+Central African Republic;2015;23.7
+Central African Republic;2010;24.9
+Central African Republic;2005;24.3
+Central African Republic;2000;24.9
+Chad;2016;23.9
+Chad;2015;24.1
+Chad;2010;24.5
+Chad;2005;24.5
+Chad;2000;24.3
+Chile;2016;12.4
+Chile;2015;12.5
+Chile;2010;13.3
+Chile;2005;13.9
+Chile;2000;14.6
+China;2016;17.0
+China;2015;17.4
+China;2010;18.1
+China;2005;19.0
+China;2000;21.5
+Colombia;2016;15.8
+Colombia;2015;15.9
+Colombia;2010;17.3
+Colombia;2005;18.8
+Colombia;2000;20.6
+Comoros;2016;22.9
+Comoros;2015;23.0
+Comoros;2010;23.5
+Comoros;2005;24.6
+Comoros;2000;25.9
+Congo;2016;16.7
+Congo;2015;17.0
+Congo;2010;19.0
+Congo;2005;22.1
+Congo;2000;24.8
+Costa Rica;2016;11.5
+Costa Rica;2015;11.6
+Costa Rica;2010;13.0
+Costa Rica;2005;12.6
+Costa Rica;2000;14.2
+Côte d'Ivoire;2016;29.1
+Côte d'Ivoire;2015;29.3
+Côte d'Ivoire;2010;28.6
+Côte d'Ivoire;2005;28.1
+Côte d'Ivoire;2000;26.2
+Croatia;2016;16.7
+Croatia;2015;17.2
+Croatia;2010;18.8
+Croatia;2005;20.7
+Croatia;2000;22.9
+Cuba;2016;16.4
+Cuba;2015;16.6
+Cuba;2010;17.6
+Cuba;2005;17.6
+Cuba;2000;18.1
+Cyprus;2016;11.3
+Cyprus;2015;11.5
+Cyprus;2010;11.8
+Cyprus;2005;13.8
+Cyprus;2000;14.1
+Czechia;2016;15.0
+Czechia;2015;15.5
+Czechia;2010;17.7
+Czechia;2005;19.9
+Czechia;2000;22.6
+Democratic People's Republic of Korea;2016;25.6
+Democratic People's Republic of Korea;2015;25.8
+Democratic People's Republic of Korea;2010;27.3
+Democratic People's Republic of Korea;2005;26.5
+Democratic People's Republic of Korea;2000;23.6
+Democratic Republic of the Congo;2016;19.4
+Democratic Republic of the Congo;2015;19.4
+Democratic Republic of the Congo;2010;20.1
+Democratic Republic of the Congo;2005;21.3
+Democratic Republic of the Congo;2000;22.7
+Denmark;2016;11.3
+Denmark;2015;11.7
+Denmark;2010;13.4
+Denmark;2005;15.1
+Denmark;2000;18.3
+Djibouti;2016;19.6
+Djibouti;2015;19.5
+Djibouti;2010;19.1
+Djibouti;2005;20.9
+Djibouti;2000;21.6
+Dominican Republic;2016;19.0
+Dominican Republic;2015;19.1
+Dominican Republic;2010;19.6
+Dominican Republic;2005;20.4
+Dominican Republic;2000;21.9
+Ecuador;2016;13.0
+Ecuador;2015;13.4
+Ecuador;2010;13.8
+Ecuador;2005;15.0
+Ecuador;2000;16.6
+Egypt;2016;27.7
+Egypt;2015;28.2
+Egypt;2010;28.0
+Egypt;2005;27.1
+Egypt;2000;25.3
+El Salvador;2016;14.0
+El Salvador;2015;14.1
+El Salvador;2010;14.7
+El Salvador;2005;15.7
+El Salvador;2000;17.1
+Equatorial Guinea;2016;22.0
+Equatorial Guinea;2015;22.0
+Equatorial Guinea;2010;23.0
+Equatorial Guinea;2005;23.6
+Equatorial Guinea;2000;26.4
+Eritrea;2016;23.9
+Eritrea;2015;24.2
+Eritrea;2010;24.8
+Eritrea;2005;25.2
+Eritrea;2000;25.7
+Estonia;2016;17.0
+Estonia;2015;16.9
+Estonia;2010;19.6
+Estonia;2005;23.8
+Estonia;2000;26.9
+Eswatini;2016;26.7
+Eswatini;2015;26.6
+Eswatini;2010;26.6
+Eswatini;2005;27.3
+Eswatini;2000;27.2
+Ethiopia;2016;18.3
+Ethiopia;2015;18.4
+Ethiopia;2010;18.9
+Ethiopia;2005;20.4
+Ethiopia;2000;21.7
+Fiji;2016;30.6
+Fiji;2015;30.8
+Fiji;2010;32.9
+Fiji;2005;35.6
+Fiji;2000;36.4
+Finland;2016;10.2
+Finland;2015;10.5
+Finland;2010;11.8
+Finland;2005;12.9
+Finland;2000;14.6
+France;2016;10.6
+France;2015;10.8
+France;2010;11.8
+France;2005;12.6
+France;2000;13.8
+Gabon;2016;14.4
+Gabon;2015;14.8
+Gabon;2010;15.1
+Gabon;2005;15.1
+Gabon;2000;17.1
+Gambia;2016;20.4
+Gambia;2015;20.6
+Gambia;2010;21.1
+Gambia;2005;22.1
+Gambia;2000;23.1
+Georgia;2016;24.9
+Georgia;2015;24.9
+Georgia;2010;25.0
+Georgia;2005;23.0
+Georgia;2000;24.7
+Germany;2016;12.1
+Germany;2015;12.5
+Germany;2010;13.1
+Germany;2005;14.1
+Germany;2000;16.1
+Ghana;2016;20.8
+Ghana;2015;20.9
+Ghana;2010;20.4
+Ghana;2005;20.3
+Ghana;2000;21.6
+Greece;2016;12.4
+Greece;2015;12.3
+Greece;2010;12.9
+Greece;2005;13.6
+Greece;2000;14.9
+Grenada;2016;21.4
+Grenada;2015;21.7
+Grenada;2010;23.9
+Grenada;2005;25.4
+Grenada;2000;26.8
+Guatemala;2016;14.9
+Guatemala;2015;14.9
+Guatemala;2010;14.9
+Guatemala;2005;15.1
+Guatemala;2000;15.0
+Guinea;2016;22.4
+Guinea;2015;22.6
+Guinea;2010;23.1
+Guinea;2005;23.3
+Guinea;2000;22.4
+Guinea-Bissau;2016;20.0
+Guinea-Bissau;2015;19.8
+Guinea-Bissau;2010;21.5
+Guinea-Bissau;2005;22.3
+Guinea-Bissau;2000;23.4
+Guyana;2016;30.5
+Guyana;2015;30.6
+Guyana;2010;31.2
+Guyana;2005;31.3
+Guyana;2000;32.7
+Haiti;2016;26.5
+Haiti;2015;26.7
+Haiti;2010;22.3
+Haiti;2005;23.4
+Haiti;2000;29.1
+Honduras;2016;14.0
+Honduras;2015;14.0
+Honduras;2010;14.3
+Honduras;2005;15.7
+Honduras;2000;16.6
+Hungary;2016;23.0
+Hungary;2015;23.3
+Hungary;2010;24.2
+Hungary;2005;26.7
+Hungary;2000;28.1
+Iceland;2016;9.1
+Iceland;2015;9.3
+Iceland;2010;9.8
+Iceland;2005;11.8
+Iceland;2000;13.4
+India;2016;23.3
+India;2015;23.5
+India;2010;24.2
+India;2005;25.1
+India;2000;26.6
+Indonesia;2016;26.4
+Indonesia;2015;26.5
+Indonesia;2010;27.0
+Indonesia;2005;26.8
+Indonesia;2000;26.3
+Iran (Islamic Republic of);2016;14.8
+Iran (Islamic Republic of);2015;15.1
+Iran (Islamic Republic of);2010;18.0
+Iran (Islamic Republic of);2005;21.5
+Iran (Islamic Republic of);2000;23.9
+Iraq;2016;21.3
+Iraq;2015;21.6
+Iraq;2010;22.5
+Iraq;2005;22.9
+Iraq;2000;24.2
+Ireland;2016;10.3
+Ireland;2015;10.5
+Ireland;2010;11.2
+Ireland;2005;13.6
+Ireland;2000;17.9
+Israel;2016;9.6
+Israel;2015;9.7
+Israel;2010;10.1
+Israel;2005;12.6
+Israel;2000;14.6
+Italy;2016;9.5
+Italy;2015;9.8
+Italy;2010;10.3
+Italy;2005;11.6
+Italy;2000;13.5
+Jamaica;2016;14.7
+Jamaica;2015;14.8
+Jamaica;2010;15.3
+Jamaica;2005;16.1
+Jamaica;2000;18.1
+Japan;2016;8.4
+Japan;2015;8.6
+Japan;2010;9.5
+Japan;2005;10.4
+Japan;2000;11.4
+Jordan;2016;19.2
+Jordan;2015;19.4
+Jordan;2010;20.7
+Jordan;2005;22.3
+Jordan;2000;23.5
+Kazakhstan;2016;26.8
+Kazakhstan;2015;28.6
+Kazakhstan;2010;32.9
+Kazakhstan;2005;39.0
+Kazakhstan;2000;39.1
+Kenya;2016;13.4
+Kenya;2015;13.3
+Kenya;2010;13.4
+Kenya;2005;15.4
+Kenya;2000;17.3
+Kiribati;2016;28.4
+Kiribati;2015;28.5
+Kiribati;2010;28.8
+Kiribati;2005;29.3
+Kiribati;2000;29.5
+Kuwait;2016;17.4
+Kuwait;2015;17.6
+Kuwait;2010;19.3
+Kuwait;2005;20.5
+Kuwait;2000;21.7
+Kyrgyzstan;2016;24.9
+Kyrgyzstan;2015;26.2
+Kyrgyzstan;2010;27.8
+Kyrgyzstan;2005;32.3
+Kyrgyzstan;2000;31.4
+Lao People's Democratic Republic;2016;27.0
+Lao People's Democratic Republic;2015;27.1
+Lao People's Democratic Republic;2010;27.9
+Lao People's Democratic Republic;2005;28.9
+Lao People's Democratic Republic;2000;29.2
+Latvia;2016;21.9
+Latvia;2015;22.2
+Latvia;2010;25.8
+Latvia;2005;28.4
+Latvia;2000;27.9
+Lebanon;2016;17.9
+Lebanon;2015;17.9
+Lebanon;2010;18.1
+Lebanon;2005;19.6
+Lebanon;2000;21.2
+Lesotho;2016;26.6
+Lesotho;2015;26.6
+Lesotho;2010;27.0
+Lesotho;2005;26.5
+Lesotho;2000;26.6
+Liberia;2016;17.6
+Liberia;2015;17.2
+Liberia;2010;18.0
+Liberia;2005;19.0
+Liberia;2000;18.1
+Libya;2016;20.1
+Libya;2015;19.7
+Libya;2010;20.7
+Libya;2005;21.9
+Libya;2000;22.7
+Lithuania;2016;20.7
+Lithuania;2015;22.2
+Lithuania;2010;23.6
+Lithuania;2005;25.9
+Lithuania;2000;24.2
+Luxembourg;2016;10.0
+Luxembourg;2015;9.6
+Luxembourg;2010;11.5
+Luxembourg;2005;13.1
+Luxembourg;2000;15.0
+Madagascar;2016;22.9
+Madagascar;2015;23.1
+Madagascar;2010;24.5
+Madagascar;2005;25.4
+Madagascar;2000;27.2
+Malawi;2016;16.4
+Malawi;2015;16.3
+Malawi;2010;17.5
+Malawi;2005;19.4
+Malawi;2000;21.0
+Malaysia;2016;17.2
+Malaysia;2015;17.3
+Malaysia;2010;18.2
+Malaysia;2005;19.3
+Malaysia;2000;20.3
+Maldives;2016;13.4
+Maldives;2015;13.9
+Maldives;2010;16.7
+Maldives;2005;20.5
+Maldives;2000;26.8
+Mali;2016;24.6
+Mali;2015;24.8
+Mali;2010;25.0
+Mali;2005;25.4
+Mali;2000;27.5
+Malta;2016;10.8
+Malta;2015;10.8
+Malta;2010;11.2
+Malta;2005;13.0
+Malta;2000;15.5
+Mauritania;2016;18.1
+Mauritania;2015;18.0
+Mauritania;2010;17.9
+Mauritania;2005;17.8
+Mauritania;2000;18.1
+Mauritius;2016;22.6
+Mauritius;2015;22.8
+Mauritius;2010;24.1
+Mauritius;2005;27.2
+Mauritius;2000;29.7
+Mexico;2016;15.7
+Mexico;2015;15.9
+Mexico;2010;16.3
+Mexico;2005;17.1
+Mexico;2000;16.8
+Micronesia (Federated States of);2016;26.1
+Micronesia (Federated States of);2015;26.5
+Micronesia (Federated States of);2010;26.4
+Micronesia (Federated States of);2005;27.2
+Micronesia (Federated States of);2000;27.4
+Mongolia;2016;30.2
+Mongolia;2015;30.4
+Mongolia;2010;32.3
+Mongolia;2005;35.6
+Mongolia;2000;38.9
+Montenegro;2016;20.6
+Montenegro;2015;20.9
+Montenegro;2010;22.1
+Montenegro;2005;25.5
+Montenegro;2000;25.7
+Morocco;2016;12.4
+Morocco;2015;12.5
+Morocco;2010;13.8
+Morocco;2005;18.6
+Morocco;2000;24.4
+Mozambique;2016;18.4
+Mozambique;2015;18.4
+Mozambique;2010;20.3
+Mozambique;2005;22.7
+Mozambique;2000;27.3
+Myanmar;2016;24.2
+Myanmar;2015;24.3
+Myanmar;2010;25.1
+Myanmar;2005;25.8
+Myanmar;2000;25.0
+Namibia;2016;21.3
+Namibia;2015;21.6
+Namibia;2010;23.2
+Namibia;2005;24.3
+Namibia;2000;25.6
+Nepal;2016;21.8
+Nepal;2015;22.2
+Nepal;2010;23.8
+Nepal;2005;25.8
+Nepal;2000;27.3
+Netherlands;2016;11.2
+Netherlands;2015;11.3
+Netherlands;2010;12.5
+Netherlands;2005;13.9
+Netherlands;2000;16.2
+New Zealand;2016;10.1
+New Zealand;2015;10.4
+New Zealand;2010;11.8
+New Zealand;2005;13.3
+New Zealand;2000;15.9
+Nicaragua;2016;14.2
+Nicaragua;2015;14.4
+Nicaragua;2010;15.4
+Nicaragua;2005;17.2
+Nicaragua;2000;19.5
+Niger;2016;20.0
+Niger;2015;20.2
+Niger;2010;20.8
+Niger;2005;21.0
+Niger;2000;20.1
+Nigeria;2016;22.5
+Nigeria;2015;22.5
+Nigeria;2010;22.9
+Nigeria;2005;24.9
+Nigeria;2000;25.5
+Norway;2016;9.2
+Norway;2015;9.3
+Norway;2010;11.3
+Norway;2005;12.2
+Norway;2000;14.2
+Oman;2016;17.8
+Oman;2015;18.1
+Oman;2010;20.2
+Oman;2005;21.8
+Oman;2000;23.4
+Pakistan;2016;24.7
+Pakistan;2015;24.8
+Pakistan;2010;25.6
+Pakistan;2005;26.7
+Pakistan;2000;26.7
+Panama;2016;13.0
+Panama;2015;13.2
+Panama;2010;13.4
+Panama;2005;14.6
+Panama;2000;15.0
+Papua New Guinea;2016;30.0
+Papua New Guinea;2015;29.9
+Papua New Guinea;2010;28.2
+Papua New Guinea;2005;29.3
+Papua New Guinea;2000;31.2
+Paraguay;2016;17.5
+Paraguay;2015;17.7
+Paraguay;2010;18.6
+Paraguay;2005;19.8
+Paraguay;2000;21.2
+Peru;2016;12.6
+Peru;2015;12.8
+Peru;2010;13.6
+Peru;2005;14.0
+Peru;2000;15.3
+Philippines;2016;26.8
+Philippines;2015;26.9
+Philippines;2010;27.6
+Philippines;2005;28.4
+Philippines;2000;26.8
+Poland;2016;18.7
+Poland;2015;19.3
+Poland;2010;20.4
+Poland;2005;22.3
+Poland;2000;24.8
+Portugal;2016;11.1
+Portugal;2015;11.2
+Portugal;2010;12.1
+Portugal;2005;13.8
+Portugal;2000;15.7
+Qatar;2016;15.3
+Qatar;2015;15.4
+Qatar;2010;16.4
+Qatar;2005;16.7
+Qatar;2000;18.3
+Republic of Korea;2016;7.8
+Republic of Korea;2015;8.3
+Republic of Korea;2010;10.6
+Republic of Korea;2005;13.5
+Republic of Korea;2000;16.5
+Republic of Moldova;2016;24.9
+Republic of Moldova;2015;27.5
+Republic of Moldova;2010;29.5
+Republic of Moldova;2005;31.6
+Republic of Moldova;2000;31.9
+Romania;2016;21.4
+Romania;2015;21.5
+Romania;2010;23.4
+Romania;2005;25.4
+Romania;2000;26.4
+Russian Federation;2016;25.4
+Russian Federation;2015;25.9
+Russian Federation;2010;30.4
+Russian Federation;2005;37.1
+Russian Federation;2000;37.0
+Rwanda;2016;18.2
+Rwanda;2015;18.3
+Rwanda;2010;19.2
+Rwanda;2005;22.4
+Rwanda;2000;30.1
+Saint Lucia;2016;18.8
+Saint Lucia;2015;19.0
+Saint Lucia;2010;19.4
+Saint Lucia;2005;24.8
+Saint Lucia;2000;24.9
+Saint Vincent and the Grenadines;2016;23.2
+Saint Vincent and the Grenadines;2015;22.3
+Saint Vincent and the Grenadines;2010;21.4
+Saint Vincent and the Grenadines;2005;22.8
+Saint Vincent and the Grenadines;2000;24.6
+Samoa;2016;20.6
+Samoa;2015;20.9
+Samoa;2010;23.4
+Samoa;2005;26.7
+Samoa;2000;29.5
+Sao Tome and Principe;2016;18.5
+Sao Tome and Principe;2015;18.6
+Sao Tome and Principe;2010;18.6
+Sao Tome and Principe;2005;19.0
+Sao Tome and Principe;2000;19.8
+Saudi Arabia;2016;16.4
+Saudi Arabia;2015;16.5
+Saudi Arabia;2010;17.9
+Saudi Arabia;2005;18.4
+Saudi Arabia;2000;18.9
+Senegal;2016;18.1
+Senegal;2015;18.4
+Senegal;2010;20.0
+Senegal;2005;21.9
+Senegal;2000;21.3
+Serbia;2016;19.1
+Serbia;2015;20.1
+Serbia;2010;22.5
+Serbia;2005;26.1
+Serbia;2000;28.5
+Seychelles;2016;21.2
+Seychelles;2015;21.3
+Seychelles;2010;22.8
+Seychelles;2005;23.4
+Seychelles;2000;24.1
+Sierra Leone;2016;30.5
+Sierra Leone;2015;30.0
+Sierra Leone;2010;31.8
+Sierra Leone;2005;33.9
+Sierra Leone;2000;36.7
+Singapore;2016;9.3
+Singapore;2015;10.0
+Singapore;2010;11.3
+Singapore;2005;13.3
+Singapore;2000;16.8
+Slovakia;2016;17.2
+Slovakia;2015;17.7
+Slovakia;2010;20.4
+Slovakia;2005;22.9
+Slovakia;2000;25.3
+Slovenia;2016;12.7
+Slovenia;2015;13.1
+Slovenia;2010;13.5
+Slovenia;2005;16.1
+Slovenia;2000;18.5
+Solomon Islands;2016;23.8
+Solomon Islands;2015;24.4
+Solomon Islands;2010;25.8
+Solomon Islands;2005;28.5
+Solomon Islands;2000;31.2
+Somalia;2016;21.8
+Somalia;2015;21.9
+Somalia;2010;21.6
+Somalia;2005;23.9
+Somalia;2000;24.1
+South Africa;2016;26.2
+South Africa;2015;26.6
+South Africa;2010;28.2
+South Africa;2005;28.7
+South Africa;2000;29.4
+South Sudan;2016;19.8
+South Sudan;2015;19.6
+South Sudan;2010;20.3
+South Sudan;2005;22.3
+South Sudan;2000;23.8
+Spain;2016;9.9
+Spain;2015;10.1
+Spain;2010;10.7
+Spain;2005;12.2
+Spain;2000;13.5
+Sri Lanka;2016;17.4
+Sri Lanka;2015;17.6
+Sri Lanka;2010;17.6
+Sri Lanka;2005;17.9
+Sri Lanka;2000;21.5
+Sudan;2016;26.0
+Sudan;2015;26.0
+Sudan;2010;26.8
+Sudan;2005;28.8
+Sudan;2000;29.8
+Suriname;2016;21.7
+Suriname;2015;21.8
+Suriname;2010;23.0
+Suriname;2005;25.1
+Suriname;2000;28.0
+Sweden;2016;9.1
+Sweden;2015;9.3
+Sweden;2010;10.4
+Sweden;2005;11.8
+Sweden;2000;13.2
+Switzerland;2016;8.6
+Switzerland;2015;8.7
+Switzerland;2010;9.7
+Switzerland;2005;10.9
+Switzerland;2000;12.6
+Syrian Arab Republic;2016;21.8
+Syrian Arab Republic;2015;21.8
+Syrian Arab Republic;2010;22.1
+Syrian Arab Republic;2005;22.2
+Syrian Arab Republic;2000;22.6
+Tajikistan;2016;25.3
+Tajikistan;2015;25.4
+Tajikistan;2010;26.1
+Tajikistan;2005;27.3
+Tajikistan;2000;27.3
+Thailand;2016;14.5
+Thailand;2015;14.6
+Thailand;2010;15.8
+Thailand;2005;17.7
+Thailand;2000;19.2
+Republic of North Macedonia;2016;20.3
+Republic of North Macedonia;2015;20.7
+Republic of North Macedonia;2010;23.0
+Republic of North Macedonia;2005;24.3
+Republic of North Macedonia;2000;26.0
+Timor-Leste;2016;19.9
+Timor-Leste;2015;19.9
+Timor-Leste;2010;23.2
+Timor-Leste;2005;24.3
+Timor-Leste;2000;26.8
+Togo;2016;23.6
+Togo;2015;23.5
+Togo;2010;24.4
+Togo;2005;25.2
+Togo;2000;24.9
+Tonga;2016;23.3
+Tonga;2015;23.5
+Tonga;2010;24.7
+Tonga;2005;25.3
+Tonga;2000;26.1
+Trinidad and Tobago;2016;21.3
+Trinidad and Tobago;2015;21.5
+Trinidad and Tobago;2010;23.6
+Trinidad and Tobago;2005;26.4
+Trinidad and Tobago;2000;28.9
+Tunisia;2016;16.1
+Tunisia;2015;16.4
+Tunisia;2010;17.5
+Tunisia;2005;18.2
+Tunisia;2000;19.3
+Turkey;2016;16.1
+Turkey;2015;16.4
+Turkey;2010;18.2
+Turkey;2005;20.2
+Turkey;2000;22.3
+Turkmenistan;2016;29.5
+Turkmenistan;2015;30.6
+Turkmenistan;2010;31.0
+Turkmenistan;2005;35.6
+Turkmenistan;2000;34.0
+Uganda;2016;21.9
+Uganda;2015;21.9
+Uganda;2010;22.7
+Uganda;2005;24.8
+Uganda;2000;25.9
+Ukraine;2016;24.7
+Ukraine;2015;25.9
+Ukraine;2010;29.3
+Ukraine;2005;35.6
+Ukraine;2000;34.3
+United Arab Emirates;2016;16.8
+United Arab Emirates;2015;17.0
+United Arab Emirates;2010;18.1
+United Arab Emirates;2005;18.9
+United Arab Emirates;2000;21.6
+United Kingdom of Great Britain and Northern Ireland;2016;10.9
+United Kingdom of Great Britain and Northern Ireland;2015;11.2
+United Kingdom of Great Britain and Northern Ireland;2010;12.2
+United Kingdom of Great Britain and Northern Ireland;2005;14.2
+United Kingdom of Great Britain and Northern Ireland;2000;16.4
+United Republic of Tanzania;2016;17.9
+United Republic of Tanzania;2015;17.9
+United Republic of Tanzania;2010;17.9
+United Republic of Tanzania;2005;18.8
+United Republic of Tanzania;2000;21.2
+United States of America;2016;14.6
+United States of America;2015;14.3
+United States of America;2010;14.5
+United States of America;2005;16.0
+United States of America;2000;18.0
+Uruguay;2016;16.7
+Uruguay;2015;17.1
+Uruguay;2010;17.7
+Uruguay;2005;19.1
+Uruguay;2000;20.6
+Uzbekistan;2016;24.5
+Uzbekistan;2015;24.8
+Uzbekistan;2010;26.5
+Uzbekistan;2005;29.9
+Uzbekistan;2000;29.3
+Vanuatu;2016;23.3
+Vanuatu;2015;23.7
+Vanuatu;2010;24.9
+Vanuatu;2005;25.6
+Vanuatu;2000;27.9
+Venezuela (Bolivarian Republic of);2016;18.1
+Venezuela (Bolivarian Republic of);2015;18.2
+Venezuela (Bolivarian Republic of);2010;18.4
+Venezuela (Bolivarian Republic of);2005;19.4
+Venezuela (Bolivarian Republic of);2000;21.6
+Viet Nam;2016;17.1
+Viet Nam;2015;17.3
+Viet Nam;2010;18.0
+Viet Nam;2005;18.4
+Viet Nam;2000;18.6
+Yemen;2016;30.6
+Yemen;2015;30.7
+Yemen;2010;31.9
+Yemen;2005;32.6
+Yemen;2000;33.1
+Zambia;2016;17.9
+Zambia;2015;18.0
+Zambia;2010;19.9
+Zambia;2005;21.1
+Zambia;2000;23.2
+Zimbabwe;2016;19.3
+Zimbabwe;2015;19.4
+Zimbabwe;2010;21.1
+Zimbabwe;2005;22.5
+Zimbabwe;2000;21.6
